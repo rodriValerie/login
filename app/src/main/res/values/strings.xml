@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="TittleW">BIENVENID@</string>
+
+    <string name="TextViewUser">Ingresar Usuario </string>
+    <string name="TextViewPass">Ingresar Contraseña</string>
+
+    <string name="ButtonLogueo">Ingresar</string>
+
+
+    <string name="Universidad">Esta es la Universitaria Agustiniana</string>
+    <string name="ButtonVolver">Volver</string>
+
+
+</resources>
